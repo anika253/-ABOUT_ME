@@ -2,7 +2,7 @@
 I'm a pre-final year student at the National Institute of Technology, Hamirpur in Electronics and Communications branch !
 
 🚀## **About Me**
-I'm a passionate developer who loves building impactful software solutions. I'm a passionate developer who loves exploring new technologies and applying them to solve real-world problems. Whether it's front-end, back-end, or anything in between, I’m always eager to learn and grow as a developer. I also enjoy diving deep into Data Structures and Algorithms (DSA) to write efficient and optimized code.
+I'm a passionate developer who loves building impactful software solutions and applying them to solve real-world problems. Whether it's front-end, back-end, or anything in between, I’m always eager to learn and grow as a developer. I also enjoy diving deep into Data Structures and Algorithms (DSA) to write efficient and optimized code.
 
 🔧## **Technologies & Tools**
 Languages:  JavaScript, C++...
